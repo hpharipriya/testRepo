@@ -8,5 +8,11 @@
 	<name>MyTestCode</name>
 	<description>Sample tests</description>
 
+	
+	<dependencies>
+		<dependancy>
+			<groupId>com.google</groupId>
+		</dependancy>
+	</dependencies>
 </project>
 
