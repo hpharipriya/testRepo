@@ -8,10 +8,13 @@
 	<name>MyTestCode</name>
 	<description>Sample tests</description>
 
-	
-	<dependencies>
+  <dependencies>
 		<dependancy>
 			<groupId>com.google</groupId>
+		</dependancy>
+    
+		<dependancy>
+			<groupId>com.atex</groupId>
 		</dependancy>
 	</dependencies>
 </project>
